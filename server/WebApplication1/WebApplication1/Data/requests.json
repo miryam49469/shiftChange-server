@@ -1,0 +1,73 @@
+﻿[
+  {
+    "id": 1,
+    "date": "2025-06-15",
+    "shift_type": "בוקר",
+    "status": "הוצע להחלפה",
+    "comment": "",
+    "shift_id": 101,
+    "employee_name": "מרים סלומון",
+    "requested_to": null
+  },
+  {
+    "id": 2,
+    "date": "2025-06-16",
+    "shift_type": "ערב",
+    "status": "ממתין לאישור",
+    "comment": "אפשרי מבחינתי",
+    "shift_id": 102,
+    "employee_name": "מרים סלומון",
+    "requested_to": "שלומי מזרחי"
+  },
+  {
+    "id": 3,
+    "date": "2025-06-17",
+    "shift_type": "בוקר",
+    "status": "נדחה",
+    "comment": "לא מסתדר",
+    "shift_id": 103,
+    "employee_name": "מרים סלומון",
+    "requested_to": "אורית ששון"
+  },
+  {
+    "id": 4,
+    "date": "2025-06-18",
+    "shift_type": "בוקר",
+    "status": "אושר",
+    "comment": "בהצלחה!",
+    "shift_id": 104,
+    "employee_name": "מרים סלומון",
+    "requested_to": "מיכל לוי"
+  },
+  {
+    "id": 5,
+    "date": "2025-06-20",
+    "shift_type": "ערב",
+    "status": "ממתין לאישור",
+    "comment": "",
+    "shift_id": 105,
+    "employee_name": "מאיר ביטון",
+    "requested_to": "מרים סלומון"
+  },
+  {
+    "id": 6,
+    "date": "2025-06-21",
+    "shift_type": "לילה",
+    "status": "הוצע להחלפה",
+    "comment": "",
+    "shift_id": 106,
+    "employee_name": "שלומי מזרחי",
+    "requested_to": ""
+  },
+  {
+    "id": 7,
+    "date": "2025-06-22",
+    "shift_type": "בוקר",
+    "status": "הוצע להחלפה",
+    "comment": "",
+    "shift_id": 107,
+    "employee_name": "גילה קורן",
+    "requested_to": ""
+  }
+
+]
